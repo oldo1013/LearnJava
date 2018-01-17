@@ -10,6 +10,7 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="Sandbox_main" />
+    <orderEntry type="library" name="Gradle: joda-time:joda-time:2.2" level="project" />
   </component>
   <component name="TestModuleProperties" production-module="Sandbox_main" />
 </module>
