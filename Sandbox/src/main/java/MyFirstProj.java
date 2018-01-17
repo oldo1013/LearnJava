@@ -1,6 +1,4 @@
-package ru.sand;
-
-public class MyFirstProject1 {
+public class MyFirstProj {
 
  public static void main (String[] args){
  System.out.println("Hello, World!");
