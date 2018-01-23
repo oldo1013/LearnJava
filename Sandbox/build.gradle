@@ -8,6 +8,5 @@ mainClassName = 'ru.test.TestProgram'
     }
 
     dependencies {
-    compile "joda-time:joda-time:2.2"
     compile "org.testng:testng:6.13.1"
     }

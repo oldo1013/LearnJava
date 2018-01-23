@@ -1,6 +1,4 @@
-package ru.test;
-
-import com.sun.org.apache.xpath.internal.SourceTree;
+package ru.test.Sandbox;
 
 public class TestProgram {
 

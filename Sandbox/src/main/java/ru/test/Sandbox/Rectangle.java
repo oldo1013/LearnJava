@@ -1,4 +1,4 @@
-package ru.test;
+package ru.test.Sandbox;
 
 public class Rectangle {
     public double a;
